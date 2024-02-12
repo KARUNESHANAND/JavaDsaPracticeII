@@ -1,0 +1,1 @@
+System.out.println("The smallest number in the array is : " + numb);
